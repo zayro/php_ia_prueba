@@ -1,0 +1,8 @@
+/* style.css - Estilos mínimos */
+body { background: #f5f5f5; }
+.card { border: none; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
+.table th { font-size: .85rem; }
+.badge { font-weight: 500; padding: .4em .7em; }
+.modal-content { border-radius: 12px; }
+.form-control, .form-select { border-radius: 8px; }
+.btn { border-radius: 8px; }
